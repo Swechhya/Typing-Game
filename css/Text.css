@@ -1,0 +1,41 @@
+#btnStart{
+  color: white;
+  background-color: #555555;
+  position: absolute;
+  top: 40%;
+  font-size: 48px;
+}
+
+.btn{
+  text-align: center;
+  cursor: pointer;
+}
+
+body{
+  background-color: black;
+}
+
+.text{
+  color: white;
+  font-family: "Helvetica";
+  font-size: 24px;
+}
+
+.score{
+  float: right;
+  color: green;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.typed{
+  float: left;
+  color: green;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+p{
+  color: white;
+  font-family: "Helvetica";
+}
